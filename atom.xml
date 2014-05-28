@@ -1,16 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Little Plastic Bags]]></title>
   <link href="http://littleplasticbags.github.io/atom.xml" rel="self"/>
   <link href="http://littleplasticbags.github.io/"/>
-  <updated>2014-05-27T13:54:50+05:30</updated>
+  <updated>2014-05-28T18:19:37+05:30</updated>
   <id>http://littleplasticbags.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Rahul D'souza]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A New Blog]]></title>
+    <link href="http://littleplasticbags.github.io/blog/a-new-blog/"/>
+    <updated>2014-05-27T13:59:59+05:30</updated>
+    <id>http://littleplasticbags.github.io/blog/a-new-blog</id>
+    <content type="html"><![CDATA[<p>When I set up this blog I decided to use an old name, associated with an old blog. The contents of the previous blog represented a way of thinking that I to which I subscribed but lacked finesse and care over language.</p>
+
+<p>I decided to use Octopress on Github pages for a few reasons. First, Octopress is incredibly easy to set up &mdash; as far as standard static websites go. Second, static websites are incredibly fast. Third, I was fed up with the Wordpress workflow. Finally, I also found the experience equal parts frustrating and fun.</p>
+
+<p>I hope that you like this blog and I hope that you are not annoyed by the lack of comments. I find that most commenting systems have lost out to avenues like Reddit, Twitter and Facebook. I do not like to regulate opinions but could be tempted to do so with any commenting system and thus prefer to leave it to the general debating corners of the internet, should anybody care about any of this at all.</p>
+]]></content>
+  </entry>
   
 </feed>
