@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Little Plastic Bags]]></title>
-  <link href="http://littleplasticbags.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: octopress | Little Plastic Bags]]></title>
+  <link href="http://littleplasticbags.github.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://littleplasticbags.github.io/"/>
   <updated>2014-05-28T20:05:36+05:30</updated>
   <id>http://littleplasticbags.github.io/</id>
