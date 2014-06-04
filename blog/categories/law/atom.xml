@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Little Plastic Bags]]></title>
-  <link href="http://littleplasticbags.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: law | Little Plastic Bags]]></title>
+  <link href="http://littleplasticbags.github.io/blog/categories/law/atom.xml" rel="self"/>
   <link href="http://littleplasticbags.github.io/"/>
   <updated>2014-06-04T22:15:45+05:30</updated>
   <id>http://littleplasticbags.github.io/</id>
@@ -59,29 +59,6 @@
 <h4>In conclusion: The criminalisation of thought</h4>
 
 <p>Being prosecuted for agreeing with something but not acting on that agreement are the hallmarks of an authoritarian state, one in which, at least on paper, we do not belong. Isn&rsquo;t the simple act of liking a post (even one that is already at a disadvantage of prosecution itself) the same as owning a book or listening to a speech, that suddenly gets deemed illegal? Aren&rsquo;t the police overstepping their mark and entering the private domain of an individual&rsquo;s or even a community&rsquo;s mind and criminalising mental consideration or even specifically agreement?</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A New Blog]]></title>
-    <link href="http://littleplasticbags.github.io/blog/a-new-blog/"/>
-    <updated>2014-05-27T00:00:00+05:30</updated>
-    <id>http://littleplasticbags.github.io/blog/a-new-blog</id>
-    <content type="html"><![CDATA[<p>When I set up this blog I decided to use an old name, associated with an old blog. The contents of the previous blog represented a way of thinking to which I subscribed but lacked finesse and care over language.</p>
-
-<p>I decided to use Octopress on Github pages for a few reasons. First, Octopress is incredibly easy to set up &mdash; as far as standard static websites go. Second, static websites are incredibly fast. Third, I was fed up with the Wordpress workflow. Finally, I also found the experience equal parts frustrating and fun.</p>
-
-<p>I hope that you like this blog and I hope that you are not annoyed by the lack of comments. I find that most commenting systems have lost out to avenues like Reddit, Twitter and Facebook. I do not like to regulate opinions but could be tempted to do so with any commenting system and thus prefer to leave it to the general debating corners of the internet, should anybody care about any of this at all.</p>
-
-<h4>About</h4>
-
-<p>My name is Rahul D&#8217;souza. I am a researcher of art history and culture, a freelance editor, and occassional writer.</p>
-
-<p>I studied the history of art and archaeology at the School of Oriental and African Studies in London and worked in publishing at The Marg Foundation in Mumbai.</p>
-
-<p>Besides art history, culture and archaeology, I also have interests in and occassionally write about music, philosophy, politics, geography, economics, technology and futurology.</p>
-
-<p>Find me on Twitter: <a href="http://twitter.com/rahuldsouza">@rahuldsouza</a></p>
 ]]></content>
   </entry>
   
